@@ -1,2 +1,2 @@
-# lego-components-free
+# LEGO-COMPONENTS-FREE
 Free Components Library for LEGOJS.
